@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/trabalho_clayton/bar/bar.iml" filepath="$PROJECT_DIR$/trabalho_clayton/bar/bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalho_clayton/bichinho_virtual/bichinho_virtual.iml" filepath="$PROJECT_DIR$/trabalho_clayton/bichinho_virtual/bichinho_virtual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/clayton.iml" filepath="$PROJECT_DIR$/.idea/clayton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalho_clayton/projeto_clayton/projeto_clayton.iml" filepath="$PROJECT_DIR$/trabalho_clayton/projeto_clayton/projeto_clayton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalho_clayton/trabalho2/trabalho2.iml" filepath="$PROJECT_DIR$/trabalho_clayton/trabalho2/trabalho2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalho_clayton/src/trabalho_clayton.iml" filepath="$PROJECT_DIR$/trabalho_clayton/src/trabalho_clayton.iml" />
+    </modules>
+  </component>
+</project>
